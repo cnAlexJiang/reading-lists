@@ -19,4 +19,4 @@
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop/reading-lists)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
