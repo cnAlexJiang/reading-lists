@@ -59,7 +59,7 @@
 | 机器人 - Robots | [视频地址](https://www.bilibili.com/video/av21376839/?p=37)  | [视频地址](https://www.youtube.com/watch?v=3XkL0qQ21Oo&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=38) |
 | 计算机中的心理学 - Psychology of Computing | [视频地址](https://www.bilibili.com/video/av21376839/?p=38)  | [视频地址](https://www.youtube.com/watch?v=DEHsvQ3Ylwg&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=39) |
 | 教育型科技 - Educational Technology | [视频地址](https://www.bilibili.com/video/av21376839/?p=39)  | [视频地址](https://www.youtube.com/watch?v=zTi3_l5h5PQ&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=40) |
-| (完结) 奇点，天网，计算机的未来 - The Singularity, Skynet, and the Future of Computing | [视频地址](https://www.bilibili.com/video/av21376839/?p=40)  | [视频地址](https://www.youtube.com/watch?v=5TNAz1HYg18& |list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=41)
+| 奇点，天网，计算机的未来 - The Singularity, Skynet, and the Future of Computing | [视频地址](https://www.bilibili.com/video/av21376839/?p=40)  | [视频地址](https://www.youtube.com/watch?v=5TNAz1HYg18&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=41) |
 
 ## 打赏&联系
 
