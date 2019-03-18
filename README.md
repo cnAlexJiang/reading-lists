@@ -1,4 +1,4 @@
-# 什么值得读
+# 💎 什么值得读 
 
 ## 前言
 
@@ -10,9 +10,8 @@
 
 * 书籍
 
-* 教程
-
-* 电影
+* 视频
+    * [计算机速成课](/videos/crash-course-computer-science.md)
 
 ## 打赏&联系
 
@@ -20,4 +19,4 @@
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop/reading-lists)
