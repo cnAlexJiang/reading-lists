@@ -9,9 +9,10 @@
 
 ## 目录
 
-* 博客
-* 书籍
-* 视频
+* 📚 书籍
+    * [前端代码片段](/books/30-seconds-of-code.md)
+    * [前端面试题集](/books/30-seconds-of-interviews.md)
+* 📹 视频
     * [计算机速成课](/videos/crash-course-computer-science.md)
 
 ## 打赏&联系

@@ -2,7 +2,7 @@
 
 ## 简介
 
-> [ 什么值得读 💎 好文章📒 好视频🎥 好项目✍️ 好书籍📚](https://github.com/pushmetop/reading-lists)
+> 更多内容 👉 [ 什么值得读 💎 好文章📒 好视频🎥 好项目✍️ 好书籍📚](https://github.com/pushmetop/reading-lists)
 
 一门来自 YouTube 的《计算机基础知识》视频课程已经由 [Crash Course 字幕组](https://github.com/1c7/crash-course-computer-science-chinese) 翻译完成。
 
