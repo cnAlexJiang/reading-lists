@@ -4,10 +4,10 @@
 
 > 更多内容 👉 [ 什么值得读 💎 好文章📒 好视频🎥 好项目✍️ 好书籍📚](https://github.com/pushmetop/reading-lists)
 
-一门来自 Github 的 [30秒前端面试题集](https://github.com/30-seconds/30-seconds-of-interviews) 项目给出了面试集合和其对应的答案质量较高：
+一门来自 Github 的项目给出了面试集合和其对应的答案质量较高：
 
-* [30秒前端面试题集](https://github.com/30-seconds/30-seconds-of-interviews)
-* [中文翻译资源](https://github.com/b3log/30-seconds-of-interviews-zh_CN)
+* [前端面试题集 - 英文](https://github.com/30-seconds/30-seconds-of-interviews)
+* [前端面试题集 - 中文](https://github.com/b3log/30-seconds-of-interviews-zh_CN)
 
 ## 推荐理由
 
